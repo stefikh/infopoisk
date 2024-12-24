@@ -1,0 +1,10 @@
+pymorphy2
+nltk
+beautifulsoup4
+torch
+numpy
+transformers
+tqdm
+pandas
+click
+scikit-learn
